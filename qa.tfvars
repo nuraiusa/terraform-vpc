@@ -1,4 +1,4 @@
-s3_bucket = "nuraiusa"
+s3_bucket = "nuraiusa2"
 s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
